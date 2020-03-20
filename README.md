@@ -3,9 +3,9 @@ In this project, I have worked on Spring AOP to add methods like before , after(
 
 # How to run this project:
 
-> Download the project and open it in Netbeans 11.3 and build it.
+1- Download the project and open it in Netbeans 11.3 and build it.
 
-> Go to AOPdemo.app Package. You will see all *DemoApp.java classes there.
+2- Go to AOPdemo.app Package. You will see all *DemoApp.java classes there.
 
 > To see the demo of @Before, run the BeforeDemoApp.java
 
